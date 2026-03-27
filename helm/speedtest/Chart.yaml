@@ -1,0 +1,12 @@
+apiVersion: v2
+name: netpulse
+description: A Helm chart for NetPulse - Professional Network Performance Testing Platform
+
+# A chart can be either an 'application' or a 'library' chart.
+type: application
+
+# Chart version
+version: 0.1.0
+
+# Application version
+appVersion: "2.0.0"
