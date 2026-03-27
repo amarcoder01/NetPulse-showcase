@@ -44,7 +44,20 @@
 </div>
 
 ---
+## Code Availability
 
+This repository is a *sanitized showcase version* of a production SaaS system.
+
+Core business logic, sensitive components, and full implementation details are intentionally excluded to protect intellectual property and maintain system security.
+
+The goal of this repository is to demonstrate:
+- System architecture  
+- Code structure  
+- Engineering practices  
+
+📩 *Full codebase access can be provided upon request for  technical evaluation.*
+
+Contact: *amar01pawar80@gmail.com*
 ## 🎯 Vision & Overview
 
 ### The Problem
